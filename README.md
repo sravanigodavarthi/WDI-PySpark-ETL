@@ -26,14 +26,21 @@ Becky finds the regional metrics interesting and wants to explore these metrics 
 
 Kat wants to identify the countries that are conducive to starting a business. She is interested in the most recent metrics for the following indicators:
 
-Gross National Income (GNI)
-Cost of business start-up procedures
-Number of days required to start a business
-Number of start-up procedures to register a business
-GDP
-GDP per capita
-Business Regulatory Environment
-Ease of doing business index (available only for 2017)
+* Gross National Income (GNI)
+
+* Cost of business start-up procedures
+
+* Number of days required to start a business
+
+* Number of start-up procedures to register a business
+
+* GDP
+
+* GDP per capita
+
+* Business Regulatory Environment
+
+* Ease of doing business index (available only for 2017)
 
 The data should be written to a CSV file.
 
